@@ -11,13 +11,16 @@ html{
 
 .titulo:hover{
     color: brown;
+    
 }
 
 .logincomun{
     margin: auto;
+    margin-top: 50px;
 
 }
 
 .loginredes{
     margin: auto;
+    margin-top: 50px;
 }
