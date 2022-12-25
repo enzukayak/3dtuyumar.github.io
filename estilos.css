@@ -15,12 +15,12 @@ html{
 }
 
 .logincomun{
-    margin: auto;
+    align-content: center;
     margin-top: 50px;
 
 }
 
 .loginredes{
-    margin: auto;
+    align-content: center;
     margin-top: 50px;
 }
