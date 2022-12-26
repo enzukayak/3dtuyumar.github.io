@@ -17,10 +17,14 @@ html{
 .logincomun{
     align-content: center;
     margin-top: 50px;
+    width:300px;
+    height: 100px;
 
 }
 
 .loginredes{
     align-content: center;
     margin-top: 50px;
+    width: 100px;
+    height: 500px;
 }
